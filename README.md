@@ -14,7 +14,7 @@ Site estático em HTML e CSS para currículo/portfólio profissional.
 
 - Nome: Fabio Higor
 - Cargo: Software Engineer Full-Stack | React Native + Node.js | Engenharia com IA
-- Localização: Silveiras, SP, Brasil
+- Localização: São Paulo, Brasil
 - E-mail: fabiohigdev@gmail.com
 - GitHub: <https://github.com/fhoalbino>
 - LinkedIn: <https://www.linkedin.com/in/fhoalbino/>
